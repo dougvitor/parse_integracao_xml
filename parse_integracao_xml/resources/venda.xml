@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet type="text/xml" href="src/template.xsl"?>
+<venda moeda="Real" xsd:noNamespaceSchemaLocation="venda.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema-instance">
+	<formaDePagamento>Cartao MasterCard</formaDePagamento>
+	<produtos>
+		<produto>
+			<nome>Computação com Ruby</nome>
+			<preco>39.90</preco>
+		</produto>
+		<produto>
+			<nome>Lógica com C</nome>
+			<preco>40.00</preco>
+		</produto>
+	</produtos>
+</venda>
